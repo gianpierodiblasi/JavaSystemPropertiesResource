@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+  <ExtensionPackages>
+    <ExtensionPackage 
+      name="JavaSystemPropertiesResource"
+      packageVersion="1.0.0"
+      vendor="Accenture Italy - Industry X"
+      description="Extension to get Java System properties"
+      minimumThingWorxVersion="8.3.0"
+      dependsOn="">
+      
+      <JarResources>
+        <FileResource description="" file="javasystempropertiesresource.jar" type="JAR"/>
+      </JarResources>
+    </ExtensionPackage>
+  </ExtensionPackages>
+  
+  <Resources>
+    <Resource aspect.isCreatable="false" aspect.isEditableExtensionObject="false" className="com.accenture.javasystemproperties.JavaSystemPropertiesResource" description="" name="JavaSystemPropertiesResource"/>
+  </Resources>
+</Entities>
