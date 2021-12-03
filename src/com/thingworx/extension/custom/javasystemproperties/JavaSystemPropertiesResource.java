@@ -1,4 +1,4 @@
-package com.accenture.javasystemproperties;
+package com.thingworx.extension.custom.javasystemproperties;
 
 import com.thingworx.data.util.InfoTableInstanceFactory;
 import com.thingworx.metadata.annotations.ThingworxServiceDefinition;
